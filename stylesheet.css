@@ -1,0 +1,26 @@
+/* Incubator Stylesheet */
+body {
+    background-color: black;
+    font-family: sans-serif;
+}
+main {
+    width: 90%;
+    background-color: floralwhite;
+    margin: 0 auto;
+}
+header {
+    height: 8em;
+    padding: 1em 3em;
+}
+section {
+    color: floralwhite;
+    min-height: 10em;
+    background-color: #900000;
+    padding: 2em 3em;
+}
+footer {
+    color:floralwhite;
+    min-height: 6em;
+    padding: 1em 3em;
+    background-color: dimgray;
+}
