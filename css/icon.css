@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'Paramonova Icons';
+    src: url('../fonts/Paramonova-Icons.eot');
+    src: url('../fonts/Paramonova-Icons.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Paramonova-Icons.woff') format('woff'),
+    url('../fonts/Paramonova-Icons.ttf') format('truetype'),
+    url('../fonts/Paramonova-Icons.svg#Paramonova-Icons') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class*='icon-']:before {
+    display: inline-block;
+    font-family: 'Paramonova Icons', monospace;
+    font-size: xx-large;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+
+.icon-icons-01:before {
+    content: '\0061';
+    color: black;
+}
+
+.icon-icons-02:before {
+    content: '\0062';
+    color: aqua;
+}
+
+.icon-icons-03:before {
+    content: '\0063';
+    color: blue;
+}
+
+.icon-icons-04:before {
+    content: '\0064';
+    color: darkorange;
+}
+
+.icon-icons-05:before {
+    content: '\0065';
+    color: deepskyblue;
+}
+
+.inline {
+    display: inline;
+}
