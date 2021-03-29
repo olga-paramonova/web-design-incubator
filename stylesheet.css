@@ -34,11 +34,11 @@ aside {
 }
 h3 {
     color: khaki;
-    font-family: PMingLiU-ExtB;
+    font-family: PMingLiU-ExtB, serif;
     font-style: italic;
 }
 h1 {
     color: brown;
     font-style: italic;
-    font-family: PMingLiU-ExtB;
+    font-family: PMingLiU-ExtB, serif;
 }
