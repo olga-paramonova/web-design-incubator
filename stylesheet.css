@@ -19,8 +19,26 @@ section {
     padding: 2em 3em;
 }
 footer {
-    color:floralwhite;
+    color: darkred;
     min-height: 6em;
     padding: 1em 3em;
-    background-color: dimgray;
+    background-color: bisque;
+}
+aside {
+    width: 40%;
+    padding-left: 20px;
+    margin-left: 20px;
+    float: right;
+    font-style: italic;
+    background-color: brown;
+}
+h3 {
+    color: khaki;
+    font-family: PMingLiU-ExtB;
+    font-style: italic;
+}
+h1 {
+    color: brown;
+    font-style: italic;
+    font-family: PMingLiU-ExtB;
 }
